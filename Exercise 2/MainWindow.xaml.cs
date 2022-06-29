@@ -199,7 +199,7 @@ namespace Exercise_2
                 case "+":
                     num1 += num2;
                     Display2.Text = num1.ToString();
-                    num2 = 0; 
+                    num2 = 0;
                     break;
                 case "-":
                     num1 -= num2;
